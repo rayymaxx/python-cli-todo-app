@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Watch Jujutsu Kaisen",
-    "description": "Watch 10 episodes",
-    "due_date": null,
-    "completed": true
-  },
-  {
-    "id": 2,
-    "title": "Go to Kayole",
-    "description": "Go to Kayole to pick up some pocket money",
-    "due_date": "2025-6-19",
-    "completed": true
-  }
-]
+[]

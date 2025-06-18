@@ -29,9 +29,15 @@ python app.py delete 1
 
 ```
 
+## Screenshot of app in action
+![Screenshot of todo list cli app](image.png)
+
 ## How to Use the CLI Todo app
 
 1. Clone the repo:
-    git clone 
+    git clone:  https://github.com/rayymaxx/python-cli-todo-app.git
 
-2. 
+2. Change directory to the .venv folder using:
+    cd .venv
+
+3. Choose what to do to use the app eg. Add task, mark task as complete, list tasks or delete a task.
