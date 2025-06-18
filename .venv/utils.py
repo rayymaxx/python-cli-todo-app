@@ -1,3 +1,5 @@
+# This file handles saving tasks to or from the json file where the data is stored permanently
+
 from task import Task
 import os
 import json

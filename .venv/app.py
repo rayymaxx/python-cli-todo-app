@@ -1,8 +1,4 @@
-# Supposed to be able to:
-# add tasks (with title, description and optional due date)
-#list all tasks with statuses
-# mark a task as completed
-# delete a task by id
+# This file runs the CLI and handles user commands
 
 import argparse
 from datetime import date
