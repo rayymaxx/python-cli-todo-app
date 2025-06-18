@@ -12,7 +12,7 @@ from utils import load_tasks, save_tasks, generate_task_id
 def add_task(title, description, due_date=None):
     tasks = load_tasks()
     new_id = generate_task_id(tasks)
-    task = Task(new_id, title, description, due_date)
+    task = Task(new_id, title, description, due_date, completed=False)
     tasks.append(task)
     save_tasks(tasks)
     print(f"Task '{title}' added!")
