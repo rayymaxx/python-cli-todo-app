@@ -25,4 +25,4 @@ class Task:
             status = "✅"
         else:
             status = "❌"
-        return f"\n[{status}] {self.id} - {self.title} (Due: {self.due_date or 'N/A'})"
+        return f"[{status}] {self.id} - {self.title} (Due: {self.due_date or 'N/A'})"
