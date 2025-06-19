@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Make an interactive AI model",
+    "description": "Make sure the AI model is able to process local languages",
+    "due_date": "2025-6-20",
+    "completed": true
+  }
+]
