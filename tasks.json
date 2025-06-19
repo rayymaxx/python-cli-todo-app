@@ -5,5 +5,12 @@
     "description": "Make sure the AI model is able to process local languages",
     "due_date": "2025-6-20",
     "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Make Lasagna",
+    "description": "Make sure the lasagna follows chef Ramsey's formula",
+    "due_date": "2025-6-19",
+    "completed": false
   }
 ]
