@@ -11,6 +11,20 @@
     "title": "Make Lasagna",
     "description": "Make sure the lasagna follows chef Ramsey's formula",
     "due_date": "2025-6-19",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Make sushi",
+    "description": "Make using japanese formula",
+    "due_date": null,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Finish section 9 of module 1",
+    "description": "The section containing gemini api and postman",
+    "due_date": "2025-06-29",
     "completed": false
   }
 ]

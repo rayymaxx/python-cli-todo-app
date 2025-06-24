@@ -1,5 +1,3 @@
-# This file defines tasks
-
 class Task:
     def __init__(self, id, title, description, due_date=None, completed=False):
         self.id = id # This is used to identify the tasks in a unique way
